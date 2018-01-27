@@ -115,6 +115,11 @@ ul.steps.columns-2 li {
     width: 47.5%; /* this value + 2.5 should = 50% */
 }
 
+/* class for 1 column */
+ul.steps.columns-1 li {
+    width: 97.5%; /* this value + 2.5 should = 100% */
+}
+
 @media (max-width: 480px) {
     ul.grid-nav li {
         display: block;
