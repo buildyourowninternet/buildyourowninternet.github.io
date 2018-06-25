@@ -2,8 +2,8 @@
 title: Build Your Own Internet
 layout: default
 ---
-## ... or join an [existing one](networks).
-### [Learn](learn) > Build > Use > Share > Repeat
+## ... or join an [existing one](networks.html).
+### [Learn](learn.html) > Build > Use > Share > Repeat
 
 <ul class="steps columns-2">
     <li class="getnode">
