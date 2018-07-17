@@ -9,11 +9,13 @@ A list of <span class='forming'>forming</span>, <span class='active'>active</spa
 
 From [networks.csv](https://github.com/buildyourowninternet/buildyourowninternet.github.io/blob/master/_data/networks.csv) in no particular order:
 
-<ul>
+<table>
+<tr><th>name</th><th>locale</th><th>active</th><th>network map</th></tr>
 {% for network in site.data.networks %}
-  <li class="{{ network.status }}"><a href="{{ network.url }}" target="_blank">{{ network.name }}</a> @ <a href="{{ network.localeId }}" target="_blank">{{ network.locale }}</a></li>
+  <tr class="{{ network.status }}">
+  <td><a href="{{ network.url }}" target="_blank">{{ network.name }}</a></td><td><a href="{{ network.localeId }}" target="_blank">{{ network.locale }}</a></td><td>{{ network.start }} - {{ network.end }}</td><td><a href="{{ network.map }}" target="_blank">{{ network.map }}</a></td>
+  </tr>
 {% endfor %}
-</ul>
+</table>
 
 Information about community networks was gathered from various sources including <https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region> , <https://www.metamesh.org/community-wifi-resources>, <http://battlemesh.org> and <https://sudoroom.org/wiki/Mesh/Other_mesh_projects> .
-
