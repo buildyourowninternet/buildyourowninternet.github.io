@@ -3,8 +3,13 @@ title: Learning Lab
 layout: default
 ---
 ## Learn You Networking!
+Learning materials from various community network projects.
 
-A variety of learning labs, courtesy of [Sudo Mesh](https://sudomesh.org):
+[TOmesh](https://tomesh.net/):
+* [Building the Peer-to-Peer Internet Workshop](https://github.com/tomeshnet/p2p-internet-workshop#building-the-peer-to-peer-internet)
+* [Various documentation](https://github.com/tomeshnet/documents/tree/master/technical)
+
+[Sudo Mesh](https://sudomesh.org):
 * [Node Whisperer's Program](https://github.com/sudomesh/node-whisperer-program) - Node whisperers explain how (exit/home) nodes work and keep them from misbehaving by troubleshooting, preparing bug fixes, applying patches, implementing new features and upgrading software. To become a node whisperer, you should be able to show someone how to build your own internet by configuring one, (ideally two) home node(s) (https://peoplesopen.net/walkthrough ) to use a custom, self-created exitnode (https://github.com/sudomesh/exitnode ). This also includes showing how babeld and tunneldigger work together by using (and improving!) https://github.com/sudomesh/babeld-lab and https://github.com/sudomesh/tunneldigger-lab on the home and exit nodes using tools like ip route , ip addr, tcpdump .
 * [Network Lab](https://github.com/sudomesh/network-lab) - This script creates a set of network namespaces, linked by virtual eth connections. It is entirely driven by a JSON network graph configuration format. Additionally, it uses the tc netem traffic shaper to simulate various kinds of faulty connections, packet loss, and latency on the links. This tool was created to experiment with and test routing protocols, but it could have many other uses.
 * [Babel Lab](https://github.com/sudomesh/babeld-lab) - The purpose of this project is to set up a virtual babel mesh for educational and testing purposes.
