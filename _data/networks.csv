@@ -1,7 +1,7 @@
 name,locale,localeId,start,end,status,url,map
 Ninux,Italy,http://www.geonames.org/3175395,2002,present,active,http://ninux.org/,http://map.ninux.org/
 Freifunk,Germany,http://www.geonames.org/2921044,2002,present,active,http://freifunk.net/,https://freifunk.net/wie-mache-ich-mit/community-finden/
-AWMN,Greece,http://www.geonames.org/390903,2002,active,present,http://www.awmn.net/,https://wind.awmn.net/?page=nodes
+AWMN,Greece,http://www.geonames.org/390903,2002,present,active,http://www.awmn.net/,https://wind.awmn.net/?page=nodes
 Sarantaporo,Greece,http://www.geonames.org/390903,2010,present,active,http://www.sarantaporo.gr/,
 Funkfeuer,Austria,http://www.geonames.org/2782113,2003,present,active,https://funkfeuer.at,https://map.funkfeuer.at/wien/
 wlan slovenija,Slovenia,http://www.geonames.org/3190538,2010,present,active,http://wlan-si.net/en/,https://wlan-si.net/en/map/

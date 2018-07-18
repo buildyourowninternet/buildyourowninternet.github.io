@@ -18,4 +18,9 @@ From [networks.csv](https://github.com/buildyourowninternet/buildyourowninternet
 {% endfor %}
 </table>
 
-Information about community networks was gathered from various sources including <https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region> , <https://www.metamesh.org/community-wifi-resources>, <http://battlemesh.org> and <https://sudoroom.org/wiki/Mesh/Other_mesh_projects> .
+Information about community networks was gathered from various sources including, 
+* <https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region> 
+* <https://www.metamesh.org/community-wifi-resources> 
+* <http://battlemesh.org>
+* <https://sudoroom.org/wiki/Mesh/Other_mesh_projects>
+* [Navarro et. al, _Report on Existing Community Networks and their Organization_, netCommons](./resources/attachment_0.pdf)
