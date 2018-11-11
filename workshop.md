@@ -2,7 +2,7 @@ This page contains some ideas for activities to help better understand how to bu
 
 1. Crimping Demo - Goal: make ethernet cables to make wired connections between routers or computers. Ingredients: crimping tool, ethernet cable, plugs, instruction manual. Steps: one, two, three . Artwork: 
 
-2. Cow and chicken - goal: make a local internet with two nodes. Ingedients: two meshing routers, two raspberry pis, smart phone, instruction leaflet . Steps: connect to chicken's wifi, visit chicken's website, visit cows website, connect to cow's wifi, visit chicken's website via cows wifi. Artwork: [website cow](./cow/index.md), [website chicken](./chicken/index.md).
+2. Cow and chicken - goal: make a local internet with two nodes. Ingedients: two meshing routers, two raspberry pis, smart phone, instruction leaflet . Steps: configure routers and pis, connect to chicken's wifi, visit chicken's website, visit cows website, connect to cow's wifi, visit chicken's website via cows wifi. Artwork: [website cow](./cow/index.md), [website chicken](./chicken/index.md),  Links: [Raspberry Pi as wired mesh node via home node](https://github.com/sudomesh/babeld-lab/blob/master/services_guide.md#use-case---raspberry-pi-as-wired-mesh-node-via-home-node), [configure a node](https://peoplesopen.net/walkthrough) . 
 
 3. Extender nodes - goal: make two directional wifi devices connect over long distances. Ingredients: one or two directional wifi devices, leaflet showing how far directional wifi antenna's reach. Steps: point directional device to connect, point directional device away to disconnect. Artwork: 
 
