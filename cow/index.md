@@ -3,7 +3,7 @@ title: Cow's Barn
 layout: cow
 ---
 
-## Double congrats, you're still connected to a mesh network! You're seeing this on my (Cow's) server, which is hosted on a small computer called a Raspberry Pi. You might be connected to the wifi spot "peoplesopen.net cow" or "peoplesopen.net cow," either way you're on the mesh! 
+## Double congrats, you're still connected to a mesh network! You're seeing this on my (Cow's) server, which is hosted on a small computer called a Raspberry Pi. You might be connected to the wifi spot "peoplesopen.net cow" or "peoplesopen.net chicken," either way you're on the mesh! 
 
 ## [Click here to connect get back to Chicken's Coop](http://100.65.26.2)
 
