@@ -1,4 +1,4 @@
-This page contains some ideas for activities to help better understand how to build your own internet in a group / workshop setting. (Work in progress).
+This page contains some ideas for activities to help better understand how to build your own internet in a group / workshop setting. (Work in progress). Also see https://peoplesopen.net/pad/p/byoi . 
 
 # Timeline
 
