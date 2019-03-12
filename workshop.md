@@ -44,7 +44,7 @@ This page contains some ideas for activities to help better understand how to bu
 ### Documentation
 * __Goal:__ Promote re-use and reflection on the workshop by documenting the workshop by sharing pictures, videos and/or materials used.  
 * __Ingredients:__ Archivist, photographer, videographer, writer, camera and a digital platforms to archive media. 
-__Steps:__ Help organizers to document their work before, during and after the event: prepare to take pictures / videos during the event, collect and archive artwork. 
+* __Steps:__ Help organizers to document their work before, during and after the event: prepare to take pictures / videos during the event, collect and archive artwork. 
 
 ### Unconference / Hackathon
 * __Goal:__ Engage audience by building stuff and doing things together. 
@@ -53,7 +53,7 @@ __Steps:__ Help organizers to document their work before, during and after the e
 ### Short informational talks 
 * __Goal:__ Share knowledge to a (big) group, stimulate discussion around community internet, introduce ongoing projects and help make connections the folks that make them work. 
 * __Ingredients:__ Microphone/ speakers, projector, a prepared 5-8 minute talk, a prepared presenter. 
-__Links:__ [Past presentations](https://github.com/sudomesh/propaganda/tree/master/presentations), [BYOI 4.0 2018-01-27](https://youtu.be/WuuE8lHgP5c), [BYOI 1.0 2017-03-18](https://youtu.be/wA7FNV6U8rU).
+* __Links:__ [Past presentations](https://github.com/sudomesh/propaganda/tree/master/presentations), [BYOI 4.0 2018-01-27](https://youtu.be/WuuE8lHgP5c), [BYOI 1.0 2017-03-18](https://youtu.be/wA7FNV6U8rU).
 
 ### Panel discussion
 * __Goal:__ Promote discussion/thought in a large audience by mediating a discussion between a few folks, q&a and space-time to mingle afterwards. 
